@@ -9,3 +9,4 @@ for i in sentence:
     counted_letters[i] = sentence.count(i)
 print(counted_letters)
 
+
